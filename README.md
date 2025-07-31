@@ -20,14 +20,14 @@ Live App: [car-sales-dashboard-triple10.onrender.com](https://car-sales-dashboar
 
 ## 📁 Project Structure
 
-  ├── app.py # Streamlit dashboard script
-  ├── vehicles_sample.csv # Cleaned dataset
-  ├── notebooks/
-  │ └── EDA.ipynb # Exploratory data analysis
-  ├── .streamlit/
-  │ └── config.toml # Streamlit app configuration
-  ├── requirements.txt # Python dependencies
-  └── README.md
+├── app.py # Streamlit dashboard script
+├── vehicles_sample.csv # Cleaned dataset
+├── notebooks/
+│ └── EDA.ipynb # Exploratory data analysis
+├── .streamlit/
+│ └── config.toml # Streamlit app configuration
+├── requirements.txt # Python dependencies
+└── README.md
 
 --------------------------------------------
 
