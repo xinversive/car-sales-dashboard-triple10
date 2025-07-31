@@ -14,6 +14,14 @@ This web app allows users to explore car sales data through dynamic visualizatio
 - Mileage vs. price trends
 - Raw data exploration
 
+## 🧪 Features
+
+- Checkbox to toggle raw dataset
+- Histogram of price distribution
+- Scatter plot of mileage vs. price
+- Wide layout for better chart spacing
+
+
 Live App: [car-sales-dashboard-triple10.onrender.com](https://car-sales-dashboard-triple10.onrender.com)
 
 ---
