@@ -1,6 +1,10 @@
 # car-sales-dashboard-triple10
 
-An interactive data visualization dashboard built with **Streamlit**, **Plotly**, and **Pand
+This project is a car sales dashboard created to explore vehicle pricing trends using Streamlit, Plotly, and pandas. The app provides an interactive way to visualize price distribution and mileage correlation. 
+This tool simulates a basic data visualization project and includes instructions for others to run the code locally.
+
+
+An interactive data visualization dashboard built with **Streamlit**, **Plotly**, and **Panda
 
 📊 Overview
 
@@ -24,4 +28,16 @@ Live App: [car-sales-dashboard-triple10.onrender.com](https://car-sales-dashboar
   │ └── config.toml # Streamlit app configuration
   ├── requirements.txt # Python dependencies
   └── README.md
+
+--------------------------------------------
+
+## 🛠️ How to Run This Project Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/xinversive/car-sales-dashboard-triple10.git
+   cd car-sales-dashboard-triple10
+2. pip install -r requirements.txt
+3. streamlit run app.py
+
 
